@@ -1,0 +1,16 @@
+.container{
+    width: 1000px;   
+}
+.t{
+    width: 200px;
+    display: inline-block;
+    padding: 10px;
+    vertical-align: top;
+}
+img{
+    width: 100%;
+}
+.t>p{
+    padding: 10px;
+}
+
