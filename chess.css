@@ -1,0 +1,24 @@
+.container{
+    border: 3px solid black;
+    height:800px;
+    width:800px;
+}
+.child{
+    height:100px;
+    display: flex;
+}
+.subchild{
+    width:100px;
+    background-color:saddlebrown;
+    border: 1px solid black;
+}
+.subchild1{
+    width:100px;
+    background-color:peru;
+}
+.subchild1:hover{
+    background-color:aqua;
+}
+.subchild:hover{
+    background-color: aquamarine;
+}
