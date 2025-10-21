@@ -1,0 +1,60 @@
+html,body{
+    height: 100%;
+}
+.container{
+    height: 30%;
+
+}
+.Languages,.Skills{
+    width:30% ;
+    height: 8%;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: grey;
+}
+.Languages > .eng{
+    width: 100%;
+    height: 100%;
+    background-color: green; 
+    border-radius: 20px;
+} 
+.Languages > .sp{
+    width: 50%;
+    height: 100%;
+    background-color: green; 
+    border-radius: 20px;
+} 
+.Languages > .ger{
+    width: 25%;
+    height: 100%;
+    background-color: green; 
+    border-radius: 20px;
+} 
+.Skills > .a{
+    width: 90%;
+    height: 100%;
+    background-color: green; 
+    border-radius: 20px;
+    text-align: center;
+} 
+.Skills > .p{
+    width: 80%;
+    height: 100%;
+    background-color: green; 
+    border-radius: 20px;
+    text-align: center;
+} 
+.Skills > .i{
+    width: 75%;
+    height: 100%;
+    background-color: green; 
+    border-radius: 20px;
+    text-align: center;
+} 
+.Skills > .m{
+    width: 50%;
+    height: 100%;
+    background-color: green; 
+    border-radius: 20px;
+    text-align: center;
+} 
