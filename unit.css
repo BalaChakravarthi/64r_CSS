@@ -2,11 +2,11 @@ html,body{
     height: 100%;
 }
 .container{
-    height: 40%;
+    height: 30%;
 
 }
 .Languages,.Skills{
-    width:30% ;
+    width:35% ;
     height: 8%;
     border: 2px solid black;
     border-radius: 20px;
